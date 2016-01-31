@@ -18,6 +18,9 @@
     "start": "http-server -p 9000"
   },
   "dependencies": {
-    "http-server": "^0.8.5"
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.10.0",
+    "http-server": "^0.8.5",
+    "phaser": "^2.4.4"
   }
 }
