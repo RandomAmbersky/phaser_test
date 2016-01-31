@@ -1,0 +1,20 @@
+{
+  "name": "phaser_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomAmbersky/phaser_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandomAmbersky/phaser_test/issues"
+  },
+  "homepage": "https://github.com/RandomAmbersky/phaser_test#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 9000"
+  }
+}
