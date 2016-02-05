@@ -10,7 +10,7 @@ gulp.task('phaser', function() {
         .pipe(gulp.dest('release/'));
 });
 
-var libDir = "lib/";
+var libDir = "release/";
 var jsFiles = "src/**/*.js";
 
 gulp.task("babel", function() {
